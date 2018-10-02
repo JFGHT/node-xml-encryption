@@ -1,5 +1,5 @@
 {
-  "name": "xml-encryption",
+  "name": "xml-encryption-beta",
   "version": "0.11.2",
   "devDependencies": {
     "mocha": "3.3.0",
