@@ -1,6 +1,6 @@
 {
   "name": "xml-encryption-beta",
-  "version": "0.11.2",
+  "version": "0.11.17",
   "devDependencies": {
     "mocha": "3.3.0",
     "should": "^11.2.1"
@@ -21,6 +21,7 @@
     "async": "3.0.1-0",
     "ejs": "^2.5.6",
     "node-forge": "^0.7.0",
+    "node-rsa": "^1.0.1",
     "xmldom": "~0.1.15",
     "xpath": "0.0.27"
   },
